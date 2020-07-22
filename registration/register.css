@@ -1,0 +1,29 @@
+.box {
+    border-radius: 30px;
+    width: 500px;
+    padding: 0;
+}
+.top-box{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.icon{
+    font-size: 20px;
+    color: grey;
+}
+.links a{
+    color: dimgray;
+    font-size: 16px;
+    font-weight: bold;
+}
+.lines{
+    color: dimgray;
+}
+.messages{
+    padding-left: 10px;
+    font-size: 16px;
+    margin: 0;
+}
